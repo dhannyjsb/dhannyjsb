@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1>Contact 📝</h1>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=dhannyjsb&theme=onedark-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhannyjsb&theme=onedark-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <h1>Stats 📊</h1><br>
 
 <a href="https://github.com/dhannyjsb">
