@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Contact 📝</h1>
-<br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhannyjsb&theme=onedark-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
 <h1>Stats 📊</h1><br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhannyjsb&theme=onedark-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/dhannyjsb">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhannyjsb&show_icons=true&theme=dark&?count_private=true&include_all_commits=true" width="480">
