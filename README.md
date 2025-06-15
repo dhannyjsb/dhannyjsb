@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1>Contact 📝</h1>
 <br>
-<a href="https://discord.gg/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" width="60">
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhannyjsb&theme=onedark-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <h1>Stats 📊</h1><br>
 
 <a href="https://github.com/dhannyjsb">
