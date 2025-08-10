@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kurniawan+Ramadhani;Full+Stack+Developer+Pemula;Sedang+Belajar+Vue+%7C+Laravel+%7C+Java+%7C+Flutter)](https://git.io/typing-svg)
+
 # 👋 Halo, Saya Kurniawan Ramadhani
 
 Saya seorang **Full Stack Developer pemula** yang sedang belajar dan mengembangkan berbagai proyek web & aplikasi.  
@@ -47,7 +49,6 @@ Fokus saya adalah membangun aplikasi yang **bermanfaat, efisien, dan mudah digun
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 ![Mikrotik API](https://img.shields.io/badge/Mikrotik_API-293241?style=for-the-badge&logo=router&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -56,10 +57,23 @@ Fokus saya adalah membangun aplikasi yang **bermanfaat, efisien, dan mudah digun
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhannyjsb&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 Aktivitas GitHub
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhannyjsb&theme=tokyo-night)
+
+
+---
+
 ## 📫 Kontak & Sosial
-- 💌 Email: **dhannyjsb@gmail.com**
-- 🌐 Website: *(coming soon)*
-- 🐦 Twitter/X: [@dhannyjsb](https://x.com/dhannyjsb)
+![Visitor Count](https://komarev.com/ghpvc/?username=dhannyjsb&color=blue&style=flat-square)  
+
+- 💌 Email: **dhannyjsb@gmail.com**  
+- 🌐 Website: *(coming soon)*  
+- 🐦 Twitter/X: [@dhannyjsb](https://x.com/dhannyjsb)  
 
 💬 **Feel free to contact me** jika ingin berdiskusi, berkolaborasi, atau sekadar sharing pengalaman coding.  
 Saya selalu terbuka untuk belajar hal baru dan mengerjakan proyek yang menantang 🚀.
