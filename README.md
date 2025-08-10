@@ -1,19 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kurniawan+Ramadhani;Full+Stack+Developer+Pemula;Sedang+Belajar+Vue+%7C+Laravel+%7C+Java+%7C+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kurniawan+Ramadhani;Junior+Full+Stack+Developer;Learning+Vue+%7C+Laravel+%7C+Flutter)](https://git.io/typing-svg)
 
-# 👋 Halo, Saya Kurniawan Ramadhani
+# 👋 Hi, I'm Kurniawan Ramadhani
 
-Saya seorang **Full Stack Developer pemula** yang sedang belajar dan mengembangkan berbagai proyek web & aplikasi.  
-Fokus saya adalah membangun aplikasi yang **bermanfaat, efisien, dan mudah digunakan**.
+I'm a **junior Full Stack Developer** passionate about learning and building various web & mobile projects.  
+My focus is on creating applications that are **useful, efficient, and user-friendly**.
 
 ---
 
-## 🚀 Tentang Saya
-- 💻 Belajar dan eksplorasi **Vue.js**, **Tailwind CSS**, **Vite**, **Laravel**, dan JavaScript modern  
-- 📚 Sedang memperdalam konsep pembuatan **REST API**, **struktur frontend responsif**, dan pengelolaan state  
-- 🎮 Sedang mempelajari **Java** untuk membuat plugin Minecraft  
-- 📱 Belajar **Kotlin** (Android) dan **Flutter** untuk pengembangan aplikasi mobile  
-- 🎯 Tujuan utama: menjadi **Full Stack Developer** yang andal dan produktif  
-- ⚡ Fun fact: suka bereksperimen dengan proyek pribadi, baik di web, server, maupun game
+## 🚀 About Me
+- 💻 Learning and exploring **Vue.js**, **Tailwind CSS**, **Vite**, **Laravel**, and modern JavaScript  
+- 📚 Deepening skills in **REST API** development, **responsive frontend structures**, and state management  
+- 🎮 Actively developing Minecraft plugins  
+- 📱 Exploring **Kotlin** (Android) and **Flutter** for mobile app development  
+- 🎯 Main goal: to become a reliable and productive **Full Stack Developer**  
+- ⚡ Fun fact: loves experimenting with personal projects—whether web, server, or game-related
 
 ---
 
@@ -42,10 +42,9 @@ Fokus saya adalah membangun aplikasi yang **bermanfaat, efisien, dan mudah digun
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🎮 Game Development
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
-### ⚙️ Lainnya
+### ⚙️ Others
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 ![Mikrotik API](https://img.shields.io/badge/Mikrotik_API-293241?style=for-the-badge&logo=router&logoColor=white)
 
@@ -62,22 +61,21 @@ Fokus saya adalah membangun aplikasi yang **bermanfaat, efisien, dan mudah digun
 
 ---
 
-## 📈 Aktivitas GitHub
+## 📈 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhannyjsb&theme=tokyo-night)
-
 
 ---
 
-## 📫 Kontak & Sosial
+## 📫 Contact
 ![Visitor Count](https://komarev.com/ghpvc/?username=dhannyjsb&color=blue&style=flat-square)  
 
 - 💌 Email: **dhannyjsb@gmail.com**  
 - 🌐 Website: *(coming soon)*  
 - 🐦 Twitter/X: [@dhannyjsb](https://x.com/dhannyjsb)  
 
-💬 **Feel free to contact me** jika ingin berdiskusi, berkolaborasi, atau sekadar sharing pengalaman coding.  
-Saya selalu terbuka untuk belajar hal baru dan mengerjakan proyek yang menantang 🚀.
+💬 **Feel free to reach out** if you want to discuss, collaborate, or just share coding experiences.  
+Always open to learning new things and working on exciting projects 🚀.
 
 ---
 
-> _"Belajar tidak pernah berakhir, setiap baris kode adalah langkah menuju masa depan."_ 🚀
+> _"Learning never ends; every line of code is a step toward the future."_ 🚀
