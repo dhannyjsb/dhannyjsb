@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kurniawan+Ramadhani)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C92C&repeat=false&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Kurniawan+Ramadhani)](https://git.io/typing-svg)
 
 I'm a **junior Full Stack Developer** passionate about learning and building various web & mobile projects.  
 My focus is on creating applications that are **useful, efficient, and user-friendly**.
