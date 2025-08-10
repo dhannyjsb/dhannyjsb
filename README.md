@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kurniawan+Ramadhani;Junior+Full+Stack+Developer;Learning+Vue+%7C+Laravel+%7C+Flutter)](https://git.io/typing-svg)
-
-# 👋 Hi, I'm Kurniawan Ramadhani
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kurniawan+Ramadhani)](https://git.io/typing-svg)
 
 I'm a **junior Full Stack Developer** passionate about learning and building various web & mobile projects.  
 My focus is on creating applications that are **useful, efficient, and user-friendly**.
