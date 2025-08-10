@@ -1,27 +1,44 @@
+# 👋 Halo, Saya Kurniawan Ramadhani
 
-<!--
-**dhannyjsb/dhannyjsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang **Full Stack Developer pemula** yang sedang belajar dan mengembangkan berbagai proyek web & aplikasi.  
+Fokus saya adalah membangun aplikasi yang **bermanfaat, efisien, dan mudah digunakan**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tentang Saya
+- 💻 Belajar dan eksplorasi **Vue.js**, **Tailwind CSS**, **Vite**, **Laravel**, dan JavaScript modern  
+- 📚 Sedang memperdalam konsep pembuatan **REST API**, **struktur frontend responsif**, dan pengelolaan state  
+- 🎮 Sedang mempelajari **Java** untuk membuat plugin Minecraft  
+- 📱 Belajar **Kotlin** (Android) dan **Flutter** untuk pengembangan aplikasi mobile  
+- 🎯 Tujuan utama: menjadi **Full Stack Developer** yang andal dan produktif  
+- ⚡ Fun fact: suka bereksperimen dengan proyek pribadi, baik di web, server, maupun game
 
+---
 
-<h1>Stats 📊</h1><br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhannyjsb&theme=onedark-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript, Vue.js, Bootstrap, Tailwind CSS  
+**Backend:** PHP, Laravel, Node.js  
+**Database:** MySQL, MongoDB, PostgreSQL  
+**Mobile:** Flutter, Kotlin (beginner)  
+**Game Dev:** Java (Minecraft Plugin Development)  
+**Lainnya:** REST API, Mikrotik API
 
-<a href="https://github.com/dhannyjsb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhannyjsb&show_icons=true&theme=dark&?count_private=true&include_all_commits=true" width="480">
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhannyjsb&layout=compact&theme=dark" width="420">
-</a>
+---
 
+## 📊 GitHub Stats
+![Kurniawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhannyjsb&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhannyjsb&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Kontak & Sosial
+- 💌 Email: **dhannyjsb@gmail.com**
+- 🌐 Website: *(coming soon)*
+- 🐦 Twitter/X: [@dhannyjsb](https://x.com/dhannyjsb)
+
+💬 **Feel free to contact me** jika ingin berdiskusi, berkolaborasi, atau sekadar sharing pengalaman coding.  
+Saya selalu terbuka untuk belajar hal baru dan mengerjakan proyek yang menantang 🚀.
+
+---
+
+> _"Belajar tidak pernah berakhir, setiap baris kode adalah langkah menuju masa depan."_ 🚀
