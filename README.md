@@ -65,7 +65,7 @@ My focus is on creating applications that are **useful, efficient, and user-frie
 ---
 
 ## 📫 Contact
-![Visitor Count](https://komarev.com/ghpvc/?username=dhannyjsb&color=blue&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?username=dhannyjsb&color=blue&style=plastic)  
 
 - 💌 Email: **dhannyjsb@gmail.com**  
 - 🌐 Website: *(coming soon)*  
