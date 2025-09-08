@@ -68,7 +68,7 @@ My focus is on creating applications that are **useful, efficient, and user-frie
 ![Visitor Count](https://komarev.com/ghpvc/?username=dhannyjsb&color=blue&style=plastic)  
 
 - 💌 Email: **dhannyjsb@gmail.com**  
-- 🌐 Website: *(coming soon)*  
+- 🌐 Website: *https://banuacode.id*  
 - 🐦 Twitter/X: [@dhannyjsb](https://x.com/dhannyjsb)  
 
 💬 **Feel free to reach out** if you want to discuss, collaborate, or just share coding experiences.  
